@@ -24,13 +24,3 @@
   <img src="https://img.shields.io/badge/HTML-fadadd?style=for-the-badge&logo=html5&logoColor=6d5a9c" />
   <img src="https://img.shields.io/badge/CSS-bdefff?style=for-the-badge&logo=css3&logoColor=6d5a9c" />
 </p>
-
-### ෆ GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yana-ly&theme=default&hide_border=true&background=FFF7FB&ring=EFA6C8&fire=EFA6C8&currStreakLabel=7B6FA8&sideNums=7B6FA8&sideLabels=7B6FA8&dates=9B8CC7" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yana-ly&label=Profile%20Views&color=ffb6c1&style=for-the-badge" />
-</p>
