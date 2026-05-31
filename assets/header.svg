@@ -1,0 +1,29 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffe1ef"/>
+      <stop offset="45%" stop-color="#d8f1ff"/>
+      <stop offset="100%" stop-color="#fff0f7"/>
+    </linearGradient>
+
+    <radialGradient id="pinkCloud" cx="25%" cy="35%" r="55%">
+      <stop offset="0%" stop-color="#ffd1e6" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#ffd1e6" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="blueCloud" cx="72%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#c7ecff" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#c7ecff" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="softWhite" cx="50%" cy="78%" r="65%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1000" height="260" rx="32" fill="url(#base)"/>
+  <rect width="1000" height="260" rx="32" fill="url(#pinkCloud)"/>
+  <rect width="1000" height="260" rx="32" fill="url(#blueCloud)"/>
+  <rect width="1000" height="260" rx="32" fill="url(#softWhite)"/>
+</svg>
